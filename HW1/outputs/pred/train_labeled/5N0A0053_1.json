@@ -1,0 +1,26 @@
+{
+  "image_name": "5N0A0053_1.jpg",
+  "orig_size": [
+    6354,
+    4236
+  ],
+  "tiled": false,
+  "letterbox": {
+    "size": 1024,
+    "scale": 0.16115832546427447,
+    "pad": [
+      0,
+      170
+    ]
+  },
+  "slic_vote": true,
+  "image": "5N0A0053_1",
+  "shape": [
+    4236,
+    6354
+  ],
+  "class_ratio": {
+    "0": 0.9712,
+    "1": 0.0288
+  }
+}

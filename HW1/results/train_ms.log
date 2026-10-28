@@ -1,0 +1,32 @@
+﻿设备: cuda  训练样本: 128（8 张 × 16）  伪标签目录: C:\Users\14691\Desktop\homework\oi\nnhw\HW1\outputs/pseudo
+类别权重: [0.2, 1.185, 1.461, 1.117, 1.101]
+python : C:\Users\14691\Desktop\homework\oi\nnhw\HW1\src\train.py:278: UserWarning: Detected call of `lr_scheduler.step
+()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step(
+)` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning ra
+te schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+所在位置 行:15 字符: 1823
++ ... ocation $d; python -u src/train.py --epochs 30 --tag ms_ *> results\t ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\14691\...t-learning-rate:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  sched.step()
+[epoch 1/30] loss=2.4834 point=1.1626 pseudo=0.4128 dice=0.8857 consist=0.0012 recon=0.0634 vq=0.0202 codes=17 val_score=0.518 (point=1.000, agree=0.035) 32.4s
+  ↳ 保存最佳权重 ms_best.pth
+[epoch 2/30] loss=1.4148 point=0.1938 pseudo=0.3762 dice=0.8382 consist=0.0051 recon=0.0557 vq=0.0039 codes=16 val_score=0.107 (point=0.000, agree=0.213) 32.3s
+[epoch 3/30] loss=1.1487 point=0.0649 pseudo=0.2766 dice=0.8019 consist=0.0050 recon=0.0544 vq=0.0026 codes=16 val_score=0.433 (point=0.000, agree=0.865) 32.2s
+[epoch 4/30] loss=1.0281 point=0.0285 pseudo=0.2511 dice=0.7438 consist=0.0060 recon=0.0526 vq=0.0020 codes=25 val_score=0.451 (point=0.000, agree=0.902) 33.0s
+[epoch 5/30] loss=0.9635 point=0.0297 pseudo=0.2146 dice=0.7151 consist=0.0036 recon=0.0529 vq=0.0017 codes=16 val_score=0.418 (point=0.000, agree=0.835) 32.3s
+[epoch 6/30] loss=0.9044 point=0.0342 pseudo=0.1931 dice=0.6735 consist=0.0051 recon=0.0515 vq=0.0010 codes=20 val_score=0.458 (point=0.000, agree=0.916) 32.1s
+[epoch 7/30] loss=0.8519 point=0.0143 pseudo=0.1922 dice=0.6419 consist=0.0066 recon=0.0519 vq=0.0007 codes=25 val_score=0.432 (point=0.000, agree=0.865) 31.8s
+[epoch 8/30] loss=0.8166 point=0.0147 pseudo=0.1778 dice=0.6204 consist=0.0069 recon=0.0511 vq=0.0009 codes=25 val_score=0.454 (point=0.000, agree=0.908) 1518.4s
+[epoch 9/30] loss=0.7820 point=0.0066 pseudo=0.1798 dice=0.5921 consist=0.0063 recon=0.0531 vq=0.0007 codes=25 val_score=0.466 (point=0.000, agree=0.933) 37.6s
+[epoch 10/30] loss=0.7386 point=0.0072 pseudo=0.1578 dice=0.5694 consist=0.0066 recon=0.0540 vq=0.0013 codes=28 val_score=0.464 (point=0.000, agree=0.927) 33.6s
+[epoch 11/30] loss=0.7928 point=0.0308 pseudo=0.1896 dice=0.5682 consist=0.0066 recon=0.0511 vq=0.0014 codes=30 val_score=0.453 (point=0.000, agree=0.906) 33.7s
+[epoch 12/30] loss=0.7322 point=0.0151 pseudo=0.1541 dice=0.5591 consist=0.0074 recon=0.0484 vq=0.0011 codes=33 val_score=0.451 (point=0.000, agree=0.903) 37.0s
+[epoch 13/30] loss=0.6728 point=0.0087 pseudo=0.1420 dice=0.5188 consist=0.0061 recon=0.0507 vq=0.0006 codes=35 val_score=0.445 (point=0.000, agree=0.890) 40.0s
+[epoch 14/30] loss=0.6197 point=0.0043 pseudo=0.1358 dice=0.4760 consist=0.0071 recon=0.0512 vq=0.0006 codes=40 val_score=0.469 (point=0.000, agree=0.938) 33.6s
+[epoch 15/30] loss=0.6012 point=0.0066 pseudo=0.1307 dice=0.4604 consist=0.0075 recon=0.0522 vq=0.0005 codes=45 val_score=0.460 (point=0.000, agree=0.920) 32.7s
+[epoch 16/30] loss=0.5775 point=0.0065 pseudo=0.1356 dice=0.4318 consist=0.0082 recon=0.0524 vq=0.0004 codes=52 val_score=0.474 (point=0.000, agree=0.948) 35.4s
+  ↳ 早停：15 轮验证分数未提升
+训练完成，最佳 val_score=0.518，日志 C:\Users\14691\Desktop\homework\oi\nnhw\HW1\results\train_log_ms_.csv

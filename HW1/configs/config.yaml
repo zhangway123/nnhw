@@ -1,0 +1,77 @@
+# 弱监督 VQ-U-Net 全流程配置（对应 nonsupervise.md）
+seed: 42
+device: auto                # auto / cuda / cpu
+
+data:
+  train_dir: train_eval_photos
+  test_dir: test_photo
+  labels: outputs/label.json
+  pseudo_dir: outputs/pseudo
+  val_image: 5N0A1577_1.jpg
+  num_classes: 5            # 0 背景 + 1~4
+  ignore_index: 255
+  max_side: 1024            # 训练前把长边缩到 1024；与 letterbox 1024 推理尺度一致
+
+pseudo:
+  n_segments_div: 1200      # 超像素数 ≈ H*W/1200
+  n_segments_min: 1500
+  n_segments_max: 6000
+  compactness: 15.0
+  sigma: 1.0
+  border_ratio: 0.03        # 边界带宽度占比，用于背景原型
+  lam: 1.0                  # 图割平滑项权重
+  rho_hard: 0.9             # 三角形覆盖率 >= 该值的超像素加类别硬约束
+  rho_soft: 0.5             # 三角形覆盖率 >= 该值的超像素作为种子（只加数据项）
+  tri_area_ratio_cap: 0.05  # 面积占图比例超过该值的三角形退化为质心单点（防止大类区域先验）
+  max_side: 0               # >0 时降分辨率生成伪标签（仅调试用）；0 = 原图分辨率
+  feature_weights:
+    color: 1.0
+    lbp: 0.5
+    edge: 0.5
+    pos: 0.1
+
+model:
+  enc_channels: [32, 64, 128, 256]
+  codebook_size: 64
+  code_dim: 32
+  beta: 0.25
+  ema_decay: 0.99
+  restart_every: 20         # 每 N step 检查死码并重启（小数据下码本易塌缩）
+  downsample: 16            # 16 或 8（消融 E5）
+  groups: 8
+
+train:
+  image_size: 512
+  batch_size: 8
+  epochs: 80
+  samples_per_epoch: 128    # 每轮采样数；训练图少于该值时自动重复采样
+  patience: 15              # 验证分数连续 N 轮不升则早停
+  lr: 0.001
+  weight_decay: 0.0001
+  warmup_ratio: 0.05
+  amp: true
+  num_workers: 2
+  point_window: 5           # 点监督窗口边长
+  point_crop_prob: 0.4      # 以点为中心裁剪的概率（原图巨大、目标极小；过高会让训练分布偏前景）
+  tau: 0.9                  # 自训练伪标签置信度阈值（初始伪标签阶段 conf 恒为 1）
+  lambda_point: 2.0         # 点是最可靠的真值，权重高于伪标签
+  lambda_tri: 2.0           # 三角形内部是区域级真值，单独成项
+  lambda_pseudo: 1.0
+  lambda_consist: 0.2
+  lambda_recon: 0.03
+  ckpt_dir: checkpoints
+  log_dir: results
+
+selftrain:
+  rounds: 3
+  tau: 0.9
+  ema_decay: 0.99
+  infer_size: 1024          # 教师推理 letterbox 尺寸
+
+infer:
+  size: 1024
+  use_tiled: false          # false = letterbox 整图（与当前权重尺度一致）；true 用滑窗
+  tile: 512
+  stride: 384
+  min_ratio: 0.0005         # 去小连通域阈值（相对面积）；大图小目标不能用 0.005
+  out_dir: outputs/pred/test_photo

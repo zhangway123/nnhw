@@ -1,0 +1,24 @@
+﻿设备: cuda  训练样本: 128（8 张 × 16）  伪标签目录: C:\Users\14691\Desktop\homework\oi\nnhw\HW1\outputs/pseudo
+类别权重: [0.2, 1.185, 1.461, 1.117, 1.101]
+python : C:\Users\14691\Desktop\homework\oi\nnhw\HW1\src\train.py:290: UserWarning: Detected call of `lr_scheduler.step
+()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step(
+)` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning ra
+te schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+所在位置 行:15 字符: 1823
++ ... ocation $d; python -u src/train.py --epochs 40 *> results\train_v2.lo ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\14691\...t-learning-rate:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  sched.step()
+[epoch 1/40] loss=2.5034 point=1.1770 pseudo=0.4152 dice=0.8872 consist=0.0011 recon=0.0655 vq=0.0219 codes=20 val_score=0.210 (point=1.000, mIoU=0.012) 39.5s
+  ↳ 保存最佳权重 best.pth
+[epoch 2/40] loss=1.3938 point=0.1731 pseudo=0.3708 dice=0.8394 consist=0.0062 recon=0.0603 vq=0.0075 codes=21 val_score=0.133 (point=0.000, mIoU=0.166) 37.6s
+[epoch 3/40] loss=1.0894 point=0.0498 pseudo=0.2498 dice=0.7837 consist=0.0050 recon=0.0550 vq=0.0035 codes=20 val_score=0.135 (point=0.000, mIoU=0.169) 37.8s
+[epoch 4/40] loss=1.0284 point=0.0334 pseudo=0.2473 dice=0.7431 consist=0.0065 recon=0.0539 vq=0.0017 codes=22 val_score=0.151 (point=0.000, mIoU=0.189) 39.9s
+[epoch 5/40] loss=0.9762 point=0.0401 pseudo=0.2140 dice=0.7178 consist=0.0048 recon=0.0528 vq=0.0017 codes=25 val_score=0.151 (point=0.000, mIoU=0.189) 37.4s
+[epoch 6/40] loss=0.9334 point=0.0457 pseudo=0.2039 dice=0.6796 consist=0.0052 recon=0.0540 vq=0.0015 codes=29 val_score=0.149 (point=0.000, mIoU=0.186) 39.4s
+[epoch 7/40] loss=0.8207 point=0.0110 pseudo=0.1809 dice=0.6248 consist=0.0064 recon=0.0546 vq=0.0011 codes=27 val_score=0.153 (point=0.000, mIoU=0.192) 35.5s
+[epoch 8/40] loss=0.7971 point=0.0344 pseudo=0.1638 dice=0.5948 consist=0.0068 recon=0.0540 vq=0.0011 codes=17 val_score=0.116 (point=0.000, mIoU=0.144) 34.2s
+[epoch 9/40] loss=0.8170 point=0.0191 pseudo=0.1869 dice=0.6064 consist=0.0098 recon=0.0512 vq=0.0011 codes=25 val_score=0.153 (point=0.000, mIoU=0.191) 40.7s
+[epoch 10/40] loss=0.7361 point=0.0086 pseudo=0.1577 dice=0.5663 consist=0.0061 recon=0.0537 vq=0.0007 codes=27 val_score=0.179 (point=0.000, mIoU=0.224) 51.4s

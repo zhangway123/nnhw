@@ -1,0 +1,1338 @@
+[
+  {
+    "number": 0,
+    "image name": "5N0A0053_1.jpg",
+    "width": 6354,
+    "height": 4236,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0053_1.jpg"
+  },
+  {
+    "number": 1,
+    "image name": "5N0A0065_1.jpg",
+    "width": 5624,
+    "height": 3749,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0065_1.jpg"
+  },
+  {
+    "number": 2,
+    "image name": "5N0A0095_1.jpg",
+    "width": 6434,
+    "height": 4289,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0095_1.jpg"
+  },
+  {
+    "number": 3,
+    "image name": "5N0A0135_1.jpg",
+    "width": 6317,
+    "height": 4211,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0135_1.jpg"
+  },
+  {
+    "number": 4,
+    "image name": "5N0A0468_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_3",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0468_1.jpg"
+  },
+  {
+    "number": 5,
+    "image name": "5N0A0472_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0472_1.jpg"
+  },
+  {
+    "number": 6,
+    "image name": "5N0A0679_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0679_1.jpg"
+  },
+  {
+    "number": 7,
+    "image name": "5N0A0708_1.jpg",
+    "width": 5758,
+    "height": 3839,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0708_1.jpg"
+  },
+  {
+    "number": 8,
+    "image name": "5N0A0827_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0827_1.jpg"
+  },
+  {
+    "number": 9,
+    "image name": "5N0A0838_1.jpg",
+    "width": 5742,
+    "height": 3828,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0838_1.jpg"
+  },
+  {
+    "number": 10,
+    "image name": "5N0A0840_1.jpg",
+    "width": 6569,
+    "height": 4379,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0840_1.jpg"
+  },
+  {
+    "number": 11,
+    "image name": "5N0A0856_1.jpg",
+    "width": 5927,
+    "height": 3951,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0856_1.jpg"
+  },
+  {
+    "number": 12,
+    "image name": "5N0A0857_1.jpg",
+    "width": 2987,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0857_1.jpg"
+  },
+  {
+    "number": 13,
+    "image name": "5N0A0866_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_2",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0866_1.jpg"
+  },
+  {
+    "number": 14,
+    "image name": "5N0A0871_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0871_1.jpg"
+  },
+  {
+    "number": 15,
+    "image name": "5N0A0904_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0904_1.jpg"
+  },
+  {
+    "number": 16,
+    "image name": "5N0A0913_1.jpg",
+    "width": 5795,
+    "height": 3863,
+    "label": "cluster_1",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0913_1.jpg"
+  },
+  {
+    "number": 17,
+    "image name": "5N0A0985_1.jpg",
+    "width": 6087,
+    "height": 4058,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A0985_1.jpg"
+  },
+  {
+    "number": 18,
+    "image name": "5N0A1004_1.jpg",
+    "width": 6407,
+    "height": 4271,
+    "label": "cluster_1",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A1004_1.jpg"
+  },
+  {
+    "number": 19,
+    "image name": "5N0A1577_1.jpg",
+    "width": 2887,
+    "height": 4331,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A1577_1.jpg"
+  },
+  {
+    "number": 20,
+    "image name": "5N0A1578_1.jpg",
+    "width": 6347,
+    "height": 4231,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A1578_1.jpg"
+  },
+  {
+    "number": 21,
+    "image name": "5N0A1582_1.jpg",
+    "width": 6197,
+    "height": 4131,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A1582_1.jpg"
+  },
+  {
+    "number": 22,
+    "image name": "5N0A1591_1.jpg",
+    "width": 5880,
+    "height": 3920,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A1591_1.jpg"
+  },
+  {
+    "number": 23,
+    "image name": "5N0A4927_1.jpg",
+    "width": 5612,
+    "height": 3741,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A4927_1.jpg"
+  },
+  {
+    "number": 24,
+    "image name": "5N0A4930_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A4930_1.jpg"
+  },
+  {
+    "number": 25,
+    "image name": "5N0A4940_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A4940_1.jpg"
+  },
+  {
+    "number": 26,
+    "image name": "5N0A4944_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A4944_1.jpg"
+  },
+  {
+    "number": 27,
+    "image name": "5N0A4948_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A4948_1.jpg"
+  },
+  {
+    "number": 28,
+    "image name": "5N0A4960_1.jpg",
+    "width": 5531,
+    "height": 3687,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A4960_1.jpg"
+  },
+  {
+    "number": 29,
+    "image name": "5N0A4974_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A4974_1.jpg"
+  },
+  {
+    "number": 30,
+    "image name": "5N0A4979_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A4979_1.jpg"
+  },
+  {
+    "number": 31,
+    "image name": "5N0A4993_1.jpg",
+    "width": 4029,
+    "height": 6043,
+    "label": "cluster_1",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A4993_1.jpg"
+  },
+  {
+    "number": 32,
+    "image name": "5N0A5000_1.jpg",
+    "width": 6176,
+    "height": 4117,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5000_1.jpg"
+  },
+  {
+    "number": 33,
+    "image name": "5N0A5006_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5006_1.jpg"
+  },
+  {
+    "number": 34,
+    "image name": "5N0A5017_1.jpg",
+    "width": 6246,
+    "height": 4164,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5017_1.jpg"
+  },
+  {
+    "number": 35,
+    "image name": "5N0A5050_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5050_1.jpg"
+  },
+  {
+    "number": 36,
+    "image name": "5N0A5058_1.jpg",
+    "width": 6056,
+    "height": 4037,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5058_1.jpg"
+  },
+  {
+    "number": 37,
+    "image name": "5N0A5085_1.jpg",
+    "width": 6365,
+    "height": 4243,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5085_1.jpg"
+  },
+  {
+    "number": 38,
+    "image name": "5N0A5086_1.jpg",
+    "width": 5040,
+    "height": 3360,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5086_1.jpg"
+  },
+  {
+    "number": 39,
+    "image name": "5N0A5093_1.jpg",
+    "width": 5888,
+    "height": 3925,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5093_1.jpg"
+  },
+  {
+    "number": 40,
+    "image name": "5N0A5103_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5103_1.jpg"
+  },
+  {
+    "number": 41,
+    "image name": "5N0A5107_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5107_1.jpg"
+  },
+  {
+    "number": 42,
+    "image name": "5N0A5124_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5124_1.jpg"
+  },
+  {
+    "number": 43,
+    "image name": "5N0A5143_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_2",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5143_1.jpg"
+  },
+  {
+    "number": 44,
+    "image name": "5N0A5152_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5152_1.jpg"
+  },
+  {
+    "number": 45,
+    "image name": "5N0A5156_1.jpg",
+    "width": 5645,
+    "height": 3763,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5156_1.jpg"
+  },
+  {
+    "number": 46,
+    "image name": "5N0A5163_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5163_1.jpg"
+  },
+  {
+    "number": 47,
+    "image name": "5N0A5176_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_2",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5176_1.jpg"
+  },
+  {
+    "number": 48,
+    "image name": "5N0A5194_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5194_1.jpg"
+  },
+  {
+    "number": 49,
+    "image name": "5N0A5202_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5202_1.jpg"
+  },
+  {
+    "number": 50,
+    "image name": "5N0A5208_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5208_1.jpg"
+  },
+  {
+    "number": 51,
+    "image name": "5N0A5212_1.jpg",
+    "width": 4437,
+    "height": 6656,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5212_1.jpg"
+  },
+  {
+    "number": 52,
+    "image name": "5N0A5344_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5344_1.jpg"
+  },
+  {
+    "number": 53,
+    "image name": "5N0A5345_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5345_1.jpg"
+  },
+  {
+    "number": 54,
+    "image name": "5N0A5352_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5352_1.jpg"
+  },
+  {
+    "number": 55,
+    "image name": "5N0A5371_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5371_1.jpg"
+  },
+  {
+    "number": 56,
+    "image name": "5N0A5378_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5378_1.jpg"
+  },
+  {
+    "number": 57,
+    "image name": "5N0A5380_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5380_1.jpg"
+  },
+  {
+    "number": 58,
+    "image name": "5N0A5385_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5385_1.jpg"
+  },
+  {
+    "number": 59,
+    "image name": "5N0A5392_1.jpg",
+    "width": 5314,
+    "height": 3543,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5392_1.jpg"
+  },
+  {
+    "number": 60,
+    "image name": "5N0A5438_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5438_1.jpg"
+  },
+  {
+    "number": 61,
+    "image name": "5N0A5506_1.jpg",
+    "width": 5962,
+    "height": 3975,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5506_1.jpg"
+  },
+  {
+    "number": 62,
+    "image name": "5N0A5511_1.jpg",
+    "width": 5797,
+    "height": 3865,
+    "label": "cluster_3",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5511_1.jpg"
+  },
+  {
+    "number": 63,
+    "image name": "5N0A5595_1.jpg",
+    "width": 6426,
+    "height": 4284,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5595_1.jpg"
+  },
+  {
+    "number": 64,
+    "image name": "5N0A5606_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_2",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5606_1.jpg"
+  },
+  {
+    "number": 65,
+    "image name": "5N0A5631_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5631_1.jpg"
+  },
+  {
+    "number": 66,
+    "image name": "5N0A5632_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_2",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5632_1.jpg"
+  },
+  {
+    "number": 67,
+    "image name": "5N0A5634_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5634_1.jpg"
+  },
+  {
+    "number": 68,
+    "image name": "5N0A5639_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5639_1.jpg"
+  },
+  {
+    "number": 69,
+    "image name": "5N0A5647_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5647_1.jpg"
+  },
+  {
+    "number": 70,
+    "image name": "5N0A5652_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_2",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5652_1.jpg"
+  },
+  {
+    "number": 71,
+    "image name": "5N0A5686_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_2",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5686_1.jpg"
+  },
+  {
+    "number": 72,
+    "image name": "5N0A5743_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5743_1.jpg"
+  },
+  {
+    "number": 73,
+    "image name": "5N0A5793_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5793_1.jpg"
+  },
+  {
+    "number": 74,
+    "image name": "5N0A5810_1.jpg",
+    "width": 5604,
+    "height": 3736,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5810_1.jpg"
+  },
+  {
+    "number": 75,
+    "image name": "5N0A5817_1.jpg",
+    "width": 5349,
+    "height": 3566,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5817_1.jpg"
+  },
+  {
+    "number": 76,
+    "image name": "5N0A5818_1.jpg",
+    "width": 5843,
+    "height": 3895,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5818_1.jpg"
+  },
+  {
+    "number": 77,
+    "image name": "5N0A5820_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5820_1.jpg"
+  },
+  {
+    "number": 78,
+    "image name": "5N0A5846_1.jpg",
+    "width": 5161,
+    "height": 3441,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5846_1.jpg"
+  },
+  {
+    "number": 79,
+    "image name": "5N0A5894_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5894_1.jpg"
+  },
+  {
+    "number": 80,
+    "image name": "5N0A5933_1.jpg",
+    "width": 5794,
+    "height": 3863,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5933_1.jpg"
+  },
+  {
+    "number": 81,
+    "image name": "5N0A5947_1.jpg",
+    "width": 6270,
+    "height": 4180,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5947_1.jpg"
+  },
+  {
+    "number": 82,
+    "image name": "5N0A5955_1.jpg",
+    "width": 6478,
+    "height": 4319,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5955_1.jpg"
+  },
+  {
+    "number": 83,
+    "image name": "5N0A5963_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5963_1.jpg"
+  },
+  {
+    "number": 84,
+    "image name": "5N0A5977_1.jpg",
+    "width": 2987,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A5977_1.jpg"
+  },
+  {
+    "number": 85,
+    "image name": "5N0A6198_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6198_1.jpg"
+  },
+  {
+    "number": 86,
+    "image name": "5N0A6268_1.jpg",
+    "width": 6255,
+    "height": 4170,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6268_1.jpg"
+  },
+  {
+    "number": 87,
+    "image name": "5N0A6286_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6286_1.jpg"
+  },
+  {
+    "number": 88,
+    "image name": "5N0A6288_1.jpg",
+    "width": 5456,
+    "height": 3637,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6288_1.jpg"
+  },
+  {
+    "number": 89,
+    "image name": "5N0A6302_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6302_1.jpg"
+  },
+  {
+    "number": 90,
+    "image name": "5N0A6312_1.jpg",
+    "width": 4660,
+    "height": 3107,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6312_1.jpg"
+  },
+  {
+    "number": 91,
+    "image name": "5N0A6317_1.jpg",
+    "width": 6659,
+    "height": 4439,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6317_1.jpg"
+  },
+  {
+    "number": 92,
+    "image name": "5N0A6328_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_2",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6328_1.jpg"
+  },
+  {
+    "number": 93,
+    "image name": "5N0A6331_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6331_1.jpg"
+  },
+  {
+    "number": 94,
+    "image name": "5N0A6337_1.jpg",
+    "width": 2987,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6337_1.jpg"
+  },
+  {
+    "number": 95,
+    "image name": "5N0A6356_1.jpg",
+    "width": 6137,
+    "height": 4091,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6356_1.jpg"
+  },
+  {
+    "number": 96,
+    "image name": "5N0A6391_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6391_1.jpg"
+  },
+  {
+    "number": 97,
+    "image name": "5N0A6395_1.jpg",
+    "width": 4082,
+    "height": 6123,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6395_1.jpg"
+  },
+  {
+    "number": 98,
+    "image name": "5N0A6396_1.jpg",
+    "width": 3787,
+    "height": 5680,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6396_1.jpg"
+  },
+  {
+    "number": 99,
+    "image name": "5N0A6409_1.jpg",
+    "width": 4357,
+    "height": 6536,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6409_1.jpg"
+  },
+  {
+    "number": 100,
+    "image name": "5N0A6421_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6421_1.jpg"
+  },
+  {
+    "number": 101,
+    "image name": "5N0A6425_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6425_1.jpg"
+  },
+  {
+    "number": 102,
+    "image name": "5N0A6430_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6430_1.jpg"
+  },
+  {
+    "number": 103,
+    "image name": "5N0A6434_1.jpg",
+    "width": 6126,
+    "height": 4084,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6434_1.jpg"
+  },
+  {
+    "number": 104,
+    "image name": "5N0A6440_1.jpg",
+    "width": 6296,
+    "height": 4197,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6440_1.jpg"
+  },
+  {
+    "number": 105,
+    "image name": "5N0A6444_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6444_1.jpg"
+  },
+  {
+    "number": 106,
+    "image name": "5N0A6459_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6459_1.jpg"
+  },
+  {
+    "number": 107,
+    "image name": "5N0A6480_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6480_1.jpg"
+  },
+  {
+    "number": 108,
+    "image name": "5N0A6481_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6481_1.jpg"
+  },
+  {
+    "number": 109,
+    "image name": "5N0A6492_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6492_1.jpg"
+  },
+  {
+    "number": 110,
+    "image name": "5N0A6591_1.jpg",
+    "width": 5888,
+    "height": 3925,
+    "label": "cluster_3",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6591_1.jpg"
+  },
+  {
+    "number": 111,
+    "image name": "5N0A6595_1.jpg",
+    "width": 2987,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6595_1.jpg"
+  },
+  {
+    "number": 112,
+    "image name": "5N0A6608_1.jpg",
+    "width": 6341,
+    "height": 4227,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6608_1.jpg"
+  },
+  {
+    "number": 113,
+    "image name": "5N0A6633_1.jpg",
+    "width": 5588,
+    "height": 3725,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6633_1.jpg"
+  },
+  {
+    "number": 114,
+    "image name": "5N0A6703_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6703_1.jpg"
+  },
+  {
+    "number": 115,
+    "image name": "5N0A6709_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6709_1.jpg"
+  },
+  {
+    "number": 116,
+    "image name": "5N0A6785_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6785_1.jpg"
+  },
+  {
+    "number": 117,
+    "image name": "5N0A6886_1.jpg",
+    "width": 6034,
+    "height": 4023,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A6886_1.jpg"
+  },
+  {
+    "number": 118,
+    "image name": "5N0A7595_1.jpg",
+    "width": 5927,
+    "height": 3951,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7595_1.jpg"
+  },
+  {
+    "number": 119,
+    "image name": "5N0A7608_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7608_1.jpg"
+  },
+  {
+    "number": 120,
+    "image name": "5N0A7612_1.jpg",
+    "width": 5292,
+    "height": 3528,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7612_1.jpg"
+  },
+  {
+    "number": 121,
+    "image name": "5N0A7614_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7614_1.jpg"
+  },
+  {
+    "number": 122,
+    "image name": "5N0A7698_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7698_1.jpg"
+  },
+  {
+    "number": 123,
+    "image name": "5N0A7712_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_1",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7712_1.jpg"
+  },
+  {
+    "number": 124,
+    "image name": "5N0A7723_1.jpg",
+    "width": 5122,
+    "height": 3415,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7723_1.jpg"
+  },
+  {
+    "number": 125,
+    "image name": "5N0A7728_1.jpg",
+    "width": 5531,
+    "height": 3687,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7728_1.jpg"
+  },
+  {
+    "number": 126,
+    "image name": "5N0A7733_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7733_1.jpg"
+  },
+  {
+    "number": 127,
+    "image name": "5N0A7754_1.jpg",
+    "width": 6172,
+    "height": 4115,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7754_1.jpg"
+  },
+  {
+    "number": 128,
+    "image name": "5N0A7765_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7765_1.jpg"
+  },
+  {
+    "number": 129,
+    "image name": "5N0A7771_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7771_1.jpg"
+  },
+  {
+    "number": 130,
+    "image name": "5N0A7774_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7774_1.jpg"
+  },
+  {
+    "number": 131,
+    "image name": "5N0A7784_1.jpg",
+    "width": 5357,
+    "height": 3571,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7784_1.jpg"
+  },
+  {
+    "number": 132,
+    "image name": "5N0A7786_1.jpg",
+    "width": 6193,
+    "height": 4129,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7786_1.jpg"
+  },
+  {
+    "number": 133,
+    "image name": "5N0A7800_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_1",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7800_1.jpg"
+  },
+  {
+    "number": 134,
+    "image name": "5N0A7816_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7816_1.jpg"
+  },
+  {
+    "number": 135,
+    "image name": "5N0A7834_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7834_1.jpg"
+  },
+  {
+    "number": 136,
+    "image name": "5N0A7859_1.jpg",
+    "width": 4043,
+    "height": 6064,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7859_1.jpg"
+  },
+  {
+    "number": 137,
+    "image name": "5N0A7908_1.jpg",
+    "width": 2331,
+    "height": 3497,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A7908_1.jpg"
+  },
+  {
+    "number": 138,
+    "image name": "5N0A8238_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8238_1.jpg"
+  },
+  {
+    "number": 139,
+    "image name": "5N0A8420_1.jpg",
+    "width": 6130,
+    "height": 4087,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8420_1.jpg"
+  },
+  {
+    "number": 140,
+    "image name": "5N0A8430_1.jpg",
+    "width": 4480,
+    "height": 6720,
+    "label": "cluster_3",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8430_1.jpg"
+  },
+  {
+    "number": 141,
+    "image name": "5N0A8434_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_3",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8434_1.jpg"
+  },
+  {
+    "number": 142,
+    "image name": "5N0A8437_1.jpg",
+    "width": 5923,
+    "height": 3949,
+    "label": "cluster_3",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8437_1.jpg"
+  },
+  {
+    "number": 143,
+    "image name": "5N0A8544_1.jpg",
+    "width": 5113,
+    "height": 3409,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8544_1.jpg"
+  },
+  {
+    "number": 144,
+    "image name": "5N0A8565_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8565_1.jpg"
+  },
+  {
+    "number": 145,
+    "image name": "5N0A8601_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8601_1.jpg"
+  },
+  {
+    "number": 146,
+    "image name": "5N0A8622_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8622_1.jpg"
+  },
+  {
+    "number": 147,
+    "image name": "5N0A8629_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_2",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8629_1.jpg"
+  },
+  {
+    "number": 148,
+    "image name": "5N0A8630_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8630_1.jpg"
+  },
+  {
+    "number": 149,
+    "image name": "5N0A8632_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8632_1.jpg"
+  },
+  {
+    "number": 150,
+    "image name": "5N0A8635_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8635_1.jpg"
+  },
+  {
+    "number": 151,
+    "image name": "5N0A8691_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8691_1.jpg"
+  },
+  {
+    "number": 152,
+    "image name": "5N0A8885_1.jpg",
+    "width": 5813,
+    "height": 3875,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A8885_1.jpg"
+  },
+  {
+    "number": 153,
+    "image name": "5N0A9779_1.jpg",
+    "width": 5853,
+    "height": 3902,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9779_1.jpg"
+  },
+  {
+    "number": 154,
+    "image name": "5N0A9789_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9789_1.jpg"
+  },
+  {
+    "number": 155,
+    "image name": "5N0A9794_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9794_1.jpg"
+  },
+  {
+    "number": 156,
+    "image name": "5N0A9802_1.jpg",
+    "width": 6622,
+    "height": 4415,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9802_1.jpg"
+  },
+  {
+    "number": 157,
+    "image name": "5N0A9809_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9809_1.jpg"
+  },
+  {
+    "number": 158,
+    "image name": "5N0A9817_1.jpg",
+    "width": 6407,
+    "height": 4271,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9817_1.jpg"
+  },
+  {
+    "number": 159,
+    "image name": "5N0A9821_1.jpg",
+    "width": 6635,
+    "height": 4423,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9821_1.jpg"
+  },
+  {
+    "number": 160,
+    "image name": "5N0A9851_1.jpg",
+    "width": 6635,
+    "height": 4423,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9851_1.jpg"
+  },
+  {
+    "number": 161,
+    "image name": "5N0A9874_1.jpg",
+    "width": 4230,
+    "height": 6345,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9874_1.jpg"
+  },
+  {
+    "number": 162,
+    "image name": "5N0A9884_1.jpg",
+    "width": 6266,
+    "height": 4177,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9884_1.jpg"
+  },
+  {
+    "number": 163,
+    "image name": "5N0A9891_1.jpg",
+    "width": 5676,
+    "height": 3784,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9891_1.jpg"
+  },
+  {
+    "number": 164,
+    "image name": "5N0A9897_1.jpg",
+    "width": 4742,
+    "height": 3161,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9897_1.jpg"
+  },
+  {
+    "number": 165,
+    "image name": "5N0A9905_1.jpg",
+    "width": 6720,
+    "height": 4480,
+    "label": "cluster_0",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9905_1.jpg"
+  },
+  {
+    "number": 166,
+    "image name": "5N0A9996_1.jpg",
+    "width": 6274,
+    "height": 4183,
+    "label": "cluster_4",
+    "path": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\train_eval_photos\\5N0A9996_1.jpg"
+  }
+]

@@ -1,0 +1,10 @@
+torch>=2.7
+torchvision
+numpy
+scipy
+scikit-image
+PyMaxflow
+Pillow
+PyYAML
+tqdm
+matplotlib

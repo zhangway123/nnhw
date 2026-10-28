@@ -1,0 +1,38 @@
+﻿设备: cuda  训练样本: 128（8 张 × 16）  伪标签目录: C:\Users\14691\Desktop\homework\oi\nnhw\HW1\outputs/pseudo
+类别权重: [0.2, 1.185, 1.461, 1.117, 1.101]
+[epoch 1/40] loss=1.9154 point=0.5212 pseudo=0.5389 dice=0.8387 consist=0.0014 recon=0.0721 vq=0.0142 codes=27 val_score=0.013 (point=0.000, agree=0.026) 22.6s
+  ↳ 保存最佳权重 best.pth
+[epoch 2/40] loss=1.6673 point=0.3328 pseudo=0.5027 dice=0.8262 consist=0.0027 recon=0.0686 vq=0.0031 codes=18 val_score=0.010 (point=0.000, agree=0.019) 22.0s
+[epoch 3/40] loss=1.4563 point=0.2038 pseudo=0.4541 dice=0.7919 consist=0.0062 recon=0.0660 vq=0.0033 codes=14 val_score=0.012 (point=0.000, agree=0.025) 21.7s
+[epoch 4/40] loss=1.5591 point=0.2436 pseudo=0.5297 dice=0.7821 consist=0.0077 recon=0.0447 vq=0.0008 codes=10 val_score=0.082 (point=0.000, agree=0.164) 22.1s
+  ↳ 保存最佳权重 best.pth
+[epoch 5/40] loss=1.3551 point=0.1601 pseudo=0.4475 dice=0.7443 consist=0.0073 recon=0.0462 vq=0.0004 codes=11 val_score=0.781 (point=1.000, agree=0.563) 21.8s
+  ↳ 保存最佳权重 best.pth
+[epoch 6/40] loss=1.3675 point=0.1915 pseudo=0.4145 dice=0.7580 consist=0.0089 recon=0.0380 vq=0.0006 codes=10 val_score=0.510 (point=1.000, agree=0.021) 21.9s
+[epoch 7/40] loss=1.2528 point=0.0930 pseudo=0.3983 dice=0.7574 consist=0.0143 recon=0.0326 vq=0.0003 codes=16 val_score=0.092 (point=0.000, agree=0.185) 21.9s
+[epoch 8/40] loss=1.1808 point=0.1170 pseudo=0.3659 dice=0.6940 consist=0.0137 recon=0.0291 vq=0.0002 codes=11 val_score=0.213 (point=0.000, agree=0.426) 21.9s
+[epoch 9/40] loss=1.3051 point=0.1392 pseudo=0.4308 dice=0.7317 consist=0.0120 recon=0.0280 vq=0.0002 codes=11 val_score=0.012 (point=0.000, agree=0.024) 22.0s
+[epoch 10/40] loss=1.1890 point=0.0699 pseudo=0.4162 dice=0.6986 consist=0.0158 recon=0.0321 vq=0.0002 codes=13 val_score=0.502 (point=1.000, agree=0.005) 22.0s
+[epoch 11/40] loss=1.1653 point=0.0940 pseudo=0.3713 dice=0.6960 consist=0.0157 recon=0.0219 vq=0.0002 codes=18 val_score=0.808 (point=1.000, agree=0.617) 22.0s
+  ↳ 保存最佳权重 best.pth
+[epoch 12/40] loss=1.2347 point=0.1000 pseudo=0.4298 dice=0.7013 consist=0.0144 recon=0.0200 vq=0.0001 codes=22 val_score=0.347 (point=0.000, agree=0.694) 22.3s
+[epoch 13/40] loss=1.2054 point=0.0965 pseudo=0.4158 dice=0.6888 consist=0.0174 recon=0.0205 vq=0.0001 codes=24 val_score=0.020 (point=0.000, agree=0.041) 21.9s
+[epoch 14/40] loss=1.1429 point=0.0670 pseudo=0.3893 dice=0.6821 consist=0.0189 recon=0.0184 vq=0.0001 codes=28 val_score=0.896 (point=1.000, agree=0.791) 21.5s
+  ↳ 保存最佳权重 best.pth
+[epoch 15/40] loss=1.1537 point=0.0734 pseudo=0.3977 dice=0.6782 consist=0.0187 recon=0.0203 vq=0.0001 codes=27 val_score=0.338 (point=0.000, agree=0.676) 22.1s
+[epoch 16/40] loss=0.9942 point=0.0521 pseudo=0.3008 dice=0.6368 consist=0.0184 recon=0.0238 vq=0.0001 codes=31 val_score=0.366 (point=0.000, agree=0.732) 21.8s
+[epoch 17/40] loss=1.0181 point=0.0855 pseudo=0.3063 dice=0.6227 consist=0.0140 recon=0.0238 vq=0.0001 codes=38 val_score=0.306 (point=0.000, agree=0.612) 21.8s
+[epoch 18/40] loss=1.0278 point=0.0330 pseudo=0.3319 dice=0.6594 consist=0.0139 recon=0.0194 vq=0.0001 codes=42 val_score=0.328 (point=0.000, agree=0.656) 21.9s
+[epoch 19/40] loss=0.9362 point=0.0351 pseudo=0.2578 dice=0.6386 consist=0.0194 recon=0.0238 vq=0.0001 codes=21 val_score=0.412 (point=0.000, agree=0.825) 21.8s
+[epoch 20/40] loss=1.0163 point=0.0508 pseudo=0.3356 dice=0.6265 consist=0.0122 recon=0.0286 vq=0.0001 codes=35 val_score=0.377 (point=0.000, agree=0.753) 22.2s
+[epoch 21/40] loss=1.0146 point=0.0232 pseudo=0.3627 dice=0.6250 consist=0.0143 recon=0.0250 vq=0.0001 codes=32 val_score=0.454 (point=0.000, agree=0.909) 22.0s
+[epoch 22/40] loss=0.9898 point=0.0564 pseudo=0.3234 dice=0.6060 consist=0.0156 recon=0.0286 vq=0.0000 codes=34 val_score=0.420 (point=0.000, agree=0.841) 22.0s
+[epoch 23/40] loss=0.9612 point=0.0210 pseudo=0.3076 dice=0.6289 consist=0.0135 recon=0.0308 vq=0.0000 codes=35 val_score=0.424 (point=0.000, agree=0.847) 22.0s
+[epoch 24/40] loss=0.9264 point=0.0330 pseudo=0.2910 dice=0.5979 consist=0.0168 recon=0.0342 vq=0.0000 codes=37 val_score=0.452 (point=0.000, agree=0.905) 22.4s
+[epoch 25/40] loss=0.9088 point=0.0211 pseudo=0.3104 dice=0.5738 consist=0.0132 recon=0.0316 vq=0.0000 codes=39 val_score=0.432 (point=0.000, agree=0.864) 22.5s
+[epoch 26/40] loss=0.8970 point=0.0208 pseudo=0.2961 dice=0.5747 consist=0.0209 recon=0.0380 vq=0.0001 codes=42 val_score=0.446 (point=0.000, agree=0.891) 22.3s
+[epoch 27/40] loss=0.9186 point=0.1314 pseudo=0.2423 dice=0.5407 consist=0.0140 recon=0.0408 vq=0.0001 codes=40 val_score=0.459 (point=0.000, agree=0.919) 21.5s
+[epoch 28/40] loss=0.8415 point=0.0218 pseudo=0.2537 dice=0.5615 consist=0.0157 recon=0.0432 vq=0.0001 codes=44 val_score=0.450 (point=0.000, agree=0.900) 21.8s
+[epoch 29/40] loss=0.9636 point=0.0130 pseudo=0.3583 dice=0.5871 consist=0.0206 recon=0.0328 vq=0.0000 codes=41 val_score=0.437 (point=0.000, agree=0.875) 22.4s
+  ↳ 早停：15 轮验证分数未提升
+训练完成，最佳 val_score=0.896，日志 C:\Users\14691\Desktop\homework\oi\nnhw\HW1\results\train_log.csv

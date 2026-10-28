@@ -1,0 +1,376 @@
+[
+  {
+    "image": "5N0A0053_1.jpg",
+    "stem": "5N0A0053_1",
+    "shape": [
+      4236,
+      6354
+    ],
+    "scale": 1.0,
+    "num_instances": 7,
+    "num_points": 3,
+    "num_triangles": 4,
+    "num_superpixels": 5704,
+    "method": "alpha-expansion",
+    "energy": 677.9778439967091,
+    "sigma": 6.448193550109863,
+    "class_ratio": {
+      "0": 0.9889,
+      "1": 0.0063,
+      "2": 0.0017,
+      "3": 0.0031
+    },
+    "margin_p50": 0.0,
+    "margin_p90": 0.304,
+    "point_consistent": true,
+    "tri_consistency": 0.2502,
+    "tri_consistency_min": 0.0,
+    "seconds": 2.5
+  },
+  {
+    "image": "5N0A0065_1.jpg",
+    "stem": "5N0A0065_1",
+    "shape": [
+      3749,
+      5624
+    ],
+    "scale": 1.0,
+    "num_instances": 5,
+    "num_points": 3,
+    "num_triangles": 2,
+    "num_superpixels": 5540,
+    "method": "alpha-expansion",
+    "energy": 310.64264121525025,
+    "sigma": 9.724419593811035,
+    "class_ratio": {
+      "0": 0.9943,
+      "1": 0.0049,
+      "2": 0.0004,
+      "3": 0.0004
+    },
+    "margin_p50": 0.009,
+    "margin_p90": 0.295,
+    "point_consistent": true,
+    "tri_consistency": 0.1052,
+    "tri_consistency_min": 0.0,
+    "seconds": 1.92
+  },
+  {
+    "image": "5N0A1577_1.jpg",
+    "stem": "5N0A1577_1",
+    "shape": [
+      4331,
+      2887
+    ],
+    "scale": 1.0,
+    "num_instances": 1,
+    "num_points": 1,
+    "num_triangles": 0,
+    "num_superpixels": 5794,
+    "method": "alpha-expansion",
+    "energy": 162.87562199264306,
+    "sigma": 11.6049165725708,
+    "class_ratio": {
+      "0": 0.9704,
+      "1": 0.0142,
+      "2": 0.0018,
+      "3": 0.0046,
+      "4": 0.009
+    },
+    "margin_p50": 0.335,
+    "margin_p90": 0.477,
+    "point_consistent": true,
+    "tri_consistency": null,
+    "tri_consistency_min": null,
+    "seconds": 1.2
+  },
+  {
+    "image": "5N0A0827_1.jpg",
+    "stem": "5N0A0827_1",
+    "shape": [
+      4480,
+      6720
+    ],
+    "scale": 1.0,
+    "num_instances": 1,
+    "num_points": 0,
+    "num_triangles": 1,
+    "num_superpixels": 5885,
+    "method": "alpha-expansion",
+    "energy": 150.62518074446527,
+    "sigma": 11.021101951599121,
+    "class_ratio": {
+      "0": 0.8593,
+      "1": 0.0023,
+      "2": 0.1378,
+      "3": 0.0005
+    },
+    "margin_p50": 0.461,
+    "margin_p90": 0.767,
+    "point_consistent": true,
+    "tri_consistency": 0.9528,
+    "tri_consistency_min": 0.9528,
+    "seconds": 2.53
+  },
+  {
+    "image": "5N0A0838_1.jpg",
+    "stem": "5N0A0838_1",
+    "shape": [
+      3828,
+      5742
+    ],
+    "scale": 1.0,
+    "num_instances": 1,
+    "num_points": 1,
+    "num_triangles": 0,
+    "num_superpixels": 5863,
+    "method": "alpha-expansion",
+    "energy": 175.0925269116117,
+    "sigma": 10.821136474609375,
+    "class_ratio": {
+      "0": 0.9847,
+      "1": 0.0016,
+      "2": 0.0068,
+      "3": 0.0065,
+      "4": 0.0003
+    },
+    "margin_p50": 0.366,
+    "margin_p90": 0.736,
+    "point_consistent": true,
+    "tri_consistency": null,
+    "tri_consistency_min": null,
+    "seconds": 1.85
+  },
+  {
+    "image": "5N0A0840_1.jpg",
+    "stem": "5N0A0840_1",
+    "shape": [
+      4379,
+      6569
+    ],
+    "scale": 1.0,
+    "num_instances": 1,
+    "num_points": 1,
+    "num_triangles": 0,
+    "num_superpixels": 5839,
+    "method": "alpha-expansion",
+    "energy": 152.89129267285048,
+    "sigma": 11.999739646911621,
+    "class_ratio": {
+      "0": 0.9453,
+      "1": 0.01,
+      "2": 0.0197,
+      "3": 0.0249,
+      "4": 0.0001
+    },
+    "margin_p50": 0.42,
+    "margin_p90": 0.724,
+    "point_consistent": true,
+    "tri_consistency": null,
+    "tri_consistency_min": null,
+    "seconds": 2.3
+  },
+  {
+    "image": "5N0A0856_1.jpg",
+    "stem": "5N0A0856_1",
+    "shape": [
+      3951,
+      5927
+    ],
+    "scale": 1.0,
+    "num_instances": 1,
+    "num_points": 1,
+    "num_triangles": 0,
+    "num_superpixels": 6131,
+    "method": "alpha-expansion",
+    "energy": 5.301172256624308,
+    "sigma": 19.372852325439453,
+    "class_ratio": {
+      "0": 0.9958,
+      "1": 0.0002,
+      "2": 0.0001,
+      "3": 0.0027,
+      "4": 0.0011
+    },
+    "margin_p50": 0.939,
+    "margin_p90": 0.98,
+    "point_consistent": true,
+    "tri_consistency": null,
+    "tri_consistency_min": null,
+    "seconds": 1.87
+  },
+  {
+    "image": "5N0A5818_1.jpg",
+    "stem": "5N0A5818_1",
+    "shape": [
+      3895,
+      5843
+    ],
+    "scale": 1.0,
+    "num_instances": 1,
+    "num_points": 0,
+    "num_triangles": 1,
+    "num_superpixels": 5863,
+    "method": "alpha-expansion",
+    "energy": 33.86242414073195,
+    "sigma": 19.19871711730957,
+    "class_ratio": {
+      "0": 0.9156,
+      "1": 0.0624,
+      "2": 0.0014,
+      "3": 0.0029,
+      "4": 0.0178
+    },
+    "margin_p50": 0.777,
+    "margin_p90": 0.841,
+    "point_consistent": true,
+    "tri_consistency": 0.823,
+    "tri_consistency_min": 0.823,
+    "seconds": 1.87
+  },
+  {
+    "image": "5N0A0857_1.jpg",
+    "stem": "5N0A0857_1",
+    "shape": [
+      4480,
+      2987
+    ],
+    "scale": 1.0,
+    "num_instances": 1,
+    "num_points": 1,
+    "num_triangles": 0,
+    "num_superpixels": 6052,
+    "method": "alpha-expansion",
+    "energy": 15.704284414810981,
+    "sigma": 18.864517211914062,
+    "class_ratio": {
+      "0": 0.9906,
+      "1": 0.0006,
+      "2": 0.0007,
+      "3": 0.0067,
+      "4": 0.0015
+    },
+    "margin_p50": 0.864,
+    "margin_p90": 0.916,
+    "point_consistent": true,
+    "tri_consistency": null,
+    "tri_consistency_min": null,
+    "seconds": 1.19
+  },
+  {
+    "image": "5N0A6421_1.jpg",
+    "stem": "5N0A6421_1",
+    "shape": [
+      6720,
+      4480
+    ],
+    "scale": 1.0,
+    "num_instances": 2,
+    "num_points": 1,
+    "num_triangles": 1,
+    "num_superpixels": 5887,
+    "method": "alpha-expansion",
+    "energy": 36.946232441031235,
+    "sigma": 15.665592193603516,
+    "class_ratio": {
+      "0": 0.9464,
+      "1": 0.0063,
+      "2": 0.0045,
+      "3": 0.0177,
+      "4": 0.0251
+    },
+    "margin_p50": 0.852,
+    "margin_p90": 0.963,
+    "point_consistent": true,
+    "tri_consistency": 0.9494,
+    "tri_consistency_min": 0.9494,
+    "seconds": 2.51
+  },
+  {
+    "image": "5N0A6430_1.jpg",
+    "stem": "5N0A6430_1",
+    "shape": [
+      4480,
+      6720
+    ],
+    "scale": 1.0,
+    "num_instances": 1,
+    "num_points": 1,
+    "num_triangles": 0,
+    "num_superpixels": 5814,
+    "method": "alpha-expansion",
+    "energy": 40.844052649895644,
+    "sigma": 16.502588272094727,
+    "class_ratio": {
+      "0": 0.8718,
+      "1": 0.0353,
+      "2": 0.0057,
+      "3": 0.0228,
+      "4": 0.0643
+    },
+    "margin_p50": 0.827,
+    "margin_p90": 0.923,
+    "point_consistent": true,
+    "tri_consistency": null,
+    "tri_consistency_min": null,
+    "seconds": 2.33
+  },
+  {
+    "image": "5N0A6480_1.jpg",
+    "stem": "5N0A6480_1",
+    "shape": [
+      4480,
+      6720
+    ],
+    "scale": 1.0,
+    "num_instances": 2,
+    "num_points": 2,
+    "num_triangles": 0,
+    "num_superpixels": 5769,
+    "method": "alpha-expansion",
+    "energy": 60.06068619190231,
+    "sigma": 15.778302192687988,
+    "class_ratio": {
+      "0": 0.8317,
+      "1": 0.0137,
+      "2": 0.014,
+      "3": 0.0635,
+      "4": 0.0771
+    },
+    "margin_p50": 0.791,
+    "margin_p90": 0.925,
+    "point_consistent": true,
+    "tri_consistency": null,
+    "tri_consistency_min": null,
+    "seconds": 2.34
+  },
+  {
+    "image": "5N0A6425_1.jpg",
+    "stem": "5N0A6425_1",
+    "shape": [
+      6720,
+      4480
+    ],
+    "scale": 1.0,
+    "num_instances": 2,
+    "num_points": 2,
+    "num_triangles": 0,
+    "num_superpixels": 5890,
+    "method": "alpha-expansion",
+    "energy": 53.377000789124146,
+    "sigma": 14.413517951965332,
+    "class_ratio": {
+      "0": 0.9538,
+      "1": 0.0113,
+      "2": 0.004,
+      "3": 0.0215,
+      "4": 0.0094
+    },
+    "margin_p50": 0.737,
+    "margin_p90": 0.908,
+    "point_consistent": true,
+    "tri_consistency": null,
+    "tri_consistency_min": null,
+    "seconds": 2.36
+  }
+]

@@ -1,0 +1,13 @@
+﻿设备: cuda  训练样本: 128（8 张 × 16）  伪标签目录: C:\Users\14691\Desktop\homework\oi\nnhw\HW1\outputs/pseudo
+类别权重: [0.2, 1.185, 1.461, 1.117, 1.101]
+[epoch 1/30] loss=2.5801 point=0.5870 pseudo=0.5320 dice=0.8573 consist=0.0010 recon=0.0748 vq=0.0143 codes=18 val_score=0.067 (point=0.000, mIoU=0.084) 42.7s
+  ↳ 保存最佳权重 final_best.pth
+[epoch 2/30] loss=2.0908 point=0.3682 pseudo=0.5056 dice=0.8437 consist=0.0026 recon=0.0731 vq=0.0023 codes=18 val_score=0.076 (point=0.000, mIoU=0.096) 46.0s
+  ↳ 保存最佳权重 final_best.pth
+[epoch 3/30] loss=1.6146 point=0.1777 pseudo=0.4491 dice=0.8062 consist=0.0042 recon=0.0658 vq=0.0012 codes=10 val_score=0.055 (point=0.000, mIoU=0.069) 43.8s
+[epoch 4/30] loss=1.8136 point=0.2311 pseudo=0.5452 dice=0.8027 consist=0.0068 recon=0.0509 vq=0.0007 codes=11 val_score=0.091 (point=0.000, mIoU=0.114) 43.0s
+  ↳ 保存最佳权重 final_best.pth
+[epoch 5/30] loss=1.8456 point=0.2626 pseudo=0.5222 dice=0.7949 consist=0.0078 recon=0.0444 vq=0.0005 codes=14 val_score=0.046 (point=0.000, mIoU=0.058) 44.9s
+[epoch 6/30] loss=1.6868 point=0.1983 pseudo=0.4852 dice=0.8025 consist=0.0072 recon=0.0287 vq=0.0002 codes=13 val_score=0.084 (point=0.000, mIoU=0.105) 35.0s
+[epoch 7/30] loss=1.4765 point=0.1358 pseudo=0.4149 dice=0.7871 consist=0.0097 recon=0.0272 vq=0.0001 codes=12 val_score=0.057 (point=0.000, mIoU=0.072) 35.6s
+[epoch 8/30] loss=1.3538 point=0.0957 pseudo=0.4195 dice=0.7394 consist=0.0130 recon=0.0260 vq=0.0001 codes=11 val_score=0.077 (point=0.000, mIoU=0.097) 36.3s

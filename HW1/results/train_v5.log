@@ -1,0 +1,60 @@
+﻿设备: cuda  训练样本: 132（12 张 × 11）  伪标签目录: C:\Users\14691\Desktop\homework\oi\nnhw\HW1\outputs/pseudo
+类别权重: [0.2, 1.444, 0.91, 1.325, 1.148]
+python : C:\Users\14691\Desktop\homework\oi\nnhw\HW1\src\train.py:305: UserWarning: Detected call of `lr_scheduler.step
+()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step(
+)` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning ra
+te schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+所在位置 行:15 字符: 1324
++ ...  'solo-agent@trae.ai'; python -u src/train.py *> results/train_v5.log
++                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\14691\...t-learning-rate:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  sched.step()
+[epoch 1/80] loss=6.2177 point=0.9407 tri=1.4541 pseudo=0.5180 dice=0.8844 consist=0.0007 recon=0.0709 vq=0.0235 codes=43 val_score=0.004 (point=1.000, mIoU=0.004, tri=nan) 36.0s
+  ↳ 保存最佳权重 best.pth
+[epoch 2/80] loss=3.5325 point=0.2634 tri=0.8018 pseudo=0.5144 dice=0.8656 consist=0.0018 recon=0.0663 vq=0.0197 codes=30 val_score=0.001 (point=1.000, mIoU=0.001, tri=nan) 36.4s
+[epoch 3/80] loss=2.5722 point=0.1272 tri=0.5039 pseudo=0.4573 dice=0.8375 consist=0.0027 recon=0.0563 vq=0.0129 codes=23 val_score=0.001 (point=1.000, mIoU=0.001, tri=nan) 36.1s
+[epoch 4/80] loss=2.0688 point=0.0563 tri=0.3566 pseudo=0.4297 dice=0.8034 consist=0.0063 recon=0.0535 vq=0.0070 codes=27 val_score=0.002 (point=1.000, mIoU=0.002, tri=nan) 35.5s
+[epoch 5/80] loss=1.6542 point=0.0271 tri=0.2067 pseudo=0.3996 dice=0.7790 consist=0.0072 recon=0.0393 vq=0.0054 codes=28 val_score=0.003 (point=1.000, mIoU=0.003, tri=nan) 40.6s
+[epoch 6/80] loss=1.7582 point=0.0492 tri=0.2709 pseudo=0.3754 dice=0.7339 consist=0.0108 recon=0.0287 vq=0.0057 codes=23 val_score=0.013 (point=1.000, mIoU=0.013, tri=nan) 40.6s
+  ↳ 保存最佳权重 best.pth
+[epoch 7/80] loss=1.4411 point=0.0267 tri=0.1532 pseudo=0.3680 dice=0.7076 consist=0.0109 recon=0.0246 vq=0.0029 codes=25 val_score=0.025 (point=1.000, mIoU=0.025, tri=nan) 42.2s
+  ↳ 保存最佳权重 best.pth
+[epoch 8/80] loss=1.3704 point=0.0152 tri=0.1424 pseudo=0.3538 dice=0.6970 consist=0.0095 recon=0.0240 vq=0.0017 codes=16 val_score=0.038 (point=1.000, mIoU=0.038, tri=nan) 38.0s
+  ↳ 保存最佳权重 best.pth
+[epoch 9/80] loss=1.1759 point=0.0102 tri=0.0759 pseudo=0.3337 dice=0.6659 consist=0.0113 recon=0.0193 vq=0.0014 codes=25 val_score=0.133 (point=1.000, mIoU=0.133, tri=nan) 35.6s
+  ↳ 保存最佳权重 best.pth
+[epoch 10/80] loss=1.1485 point=0.0456 tri=0.0547 pseudo=0.3224 dice=0.6196 consist=0.0176 recon=0.0203 vq=0.0016 codes=22 val_score=0.125 (point=1.000, mIoU=0.125, tri=nan) 33.8s
+[epoch 11/80] loss=1.0136 point=0.0064 tri=0.0430 pseudo=0.2998 dice=0.6097 consist=0.0148 recon=0.0230 vq=0.0016 codes=30 val_score=0.098 (point=0.000, mIoU=0.098, tri=nan) 42.3s
+[epoch 12/80] loss=0.9829 point=0.0067 tri=0.0463 pseudo=0.3019 dice=0.5702 consist=0.0130 recon=0.0227 vq=0.0014 codes=28 val_score=0.115 (point=1.000, mIoU=0.115, tri=nan) 43.4s
+[epoch 13/80] loss=1.0470 point=0.0168 tri=0.0810 pseudo=0.2803 dice=0.5655 consist=0.0172 recon=0.0224 vq=0.0015 codes=35 val_score=0.102 (point=0.000, mIoU=0.102, tri=nan) 42.2s
+[epoch 14/80] loss=1.0349 point=0.0325 tri=0.0464 pseudo=0.3045 dice=0.5680 consist=0.0122 recon=0.0229 vq=0.0013 codes=36 val_score=0.141 (point=0.000, mIoU=0.141, tri=nan) 41.1s
+  ↳ 保存最佳权重 best.pth
+[epoch 15/80] loss=0.9068 point=0.0037 tri=0.0464 pseudo=0.2570 dice=0.5445 consist=0.0143 recon=0.0206 vq=0.0014 codes=31 val_score=0.135 (point=0.000, mIoU=0.135, tri=nan) 37.1s
+[epoch 16/80] loss=0.8752 point=0.0056 tri=0.0537 pseudo=0.2377 dice=0.5124 consist=0.0220 recon=0.0230 vq=0.0014 codes=39 val_score=0.164 (point=0.000, mIoU=0.164, tri=nan) 34.6s
+  ↳ 保存最佳权重 best.pth
+[epoch 17/80] loss=0.8094 point=0.0035 tri=0.0302 pseudo=0.2534 dice=0.4845 consist=0.0103 recon=0.0217 vq=0.0015 codes=44 val_score=0.165 (point=0.000, mIoU=0.165, tri=nan) 34.9s
+  ↳ 保存最佳权重 best.pth
+[epoch 18/80] loss=0.7996 point=0.0086 tri=0.0334 pseudo=0.2402 dice=0.4710 consist=0.0145 recon=0.0212 vq=0.0011 codes=50 val_score=0.122 (point=0.000, mIoU=0.122, tri=nan) 35.0s
+[epoch 19/80] loss=0.8411 point=0.0038 tri=0.0364 pseudo=0.2540 dice=0.5029 consist=0.0121 recon=0.0198 vq=0.0010 codes=57 val_score=0.149 (point=0.000, mIoU=0.149, tri=nan) 36.5s
+[epoch 20/80] loss=0.7902 point=0.0056 tri=0.0290 pseudo=0.2326 dice=0.4843 consist=0.0132 recon=0.0190 vq=0.0010 codes=54 val_score=0.107 (point=0.000, mIoU=0.107, tri=nan) 40.9s
+[epoch 21/80] loss=0.8366 point=0.0112 tri=0.0342 pseudo=0.2455 dice=0.4948 consist=0.0184 recon=0.0209 vq=0.0011 codes=49 val_score=0.171 (point=0.000, mIoU=0.171, tri=nan) 30.1s
+  ↳ 保存最佳权重 best.pth
+[epoch 22/80] loss=0.7981 point=0.0041 tri=0.0417 pseudo=0.2264 dice=0.4752 consist=0.0153 recon=0.0210 vq=0.0011 codes=60 val_score=0.116 (point=1.000, mIoU=0.116, tri=nan) 29.4s
+[epoch 23/80] loss=0.8071 point=0.0044 tri=0.0294 pseudo=0.2503 dice=0.4851 consist=0.0111 recon=0.0169 vq=0.0016 codes=53 val_score=0.150 (point=0.000, mIoU=0.150, tri=nan) 29.3s
+[epoch 24/80] loss=0.7134 point=0.0042 tri=0.0184 pseudo=0.1985 dice=0.4646 consist=0.0157 recon=0.0180 vq=0.0013 codes=43 val_score=0.133 (point=1.000, mIoU=0.133, tri=nan) 29.4s
+[epoch 25/80] loss=0.7461 point=0.0038 tri=0.0271 pseudo=0.2227 dice=0.4567 consist=0.0159 recon=0.0197 vq=0.0011 codes=59 val_score=0.137 (point=0.000, mIoU=0.137, tri=nan) 30.1s
+[epoch 26/80] loss=0.7592 point=0.0021 tri=0.0286 pseudo=0.2343 dice=0.4579 consist=0.0189 recon=0.0189 vq=0.0012 codes=55 val_score=0.097 (point=0.000, mIoU=0.097, tri=nan) 29.2s
+[epoch 27/80] loss=0.7112 point=0.0020 tri=0.0248 pseudo=0.2091 dice=0.4440 consist=0.0139 recon=0.0199 vq=0.0011 codes=58 val_score=0.147 (point=0.000, mIoU=0.147, tri=nan) 29.9s
+[epoch 28/80] loss=0.6758 point=0.0017 tri=0.0141 pseudo=0.2134 dice=0.4263 consist=0.0152 recon=0.0180 vq=0.0009 codes=61 val_score=0.137 (point=0.000, mIoU=0.137, tri=nan) 29.8s
+[epoch 29/80] loss=0.6733 point=0.0045 tri=0.0138 pseudo=0.1926 dice=0.4398 consist=0.0144 recon=0.0177 vq=0.0010 codes=50 val_score=0.135 (point=0.000, mIoU=0.135, tri=nan) 30.9s
+[epoch 30/80] loss=0.6476 point=0.0009 tri=0.0166 pseudo=0.1941 dice=0.4144 consist=0.0128 recon=0.0193 vq=0.0010 codes=58 val_score=0.123 (point=0.000, mIoU=0.123, tri=nan) 30.0s
+[epoch 31/80] loss=0.7584 point=0.0039 tri=0.0615 pseudo=0.2011 dice=0.4222 consist=0.0118 recon=0.0189 vq=0.0012 codes=59 val_score=0.170 (point=0.000, mIoU=0.170, tri=nan) 29.0s
+[epoch 32/80] loss=0.7091 point=0.0040 tri=0.0186 pseudo=0.2147 dice=0.4437 consist=0.0140 recon=0.0159 vq=0.0022 codes=56 val_score=0.119 (point=0.000, mIoU=0.119, tri=nan) 30.7s
+[epoch 33/80] loss=0.6633 point=0.0019 tri=0.0178 pseudo=0.1937 dice=0.4255 consist=0.0136 recon=0.0162 vq=0.0016 codes=55 val_score=0.135 (point=0.000, mIoU=0.135, tri=nan) 29.6s
+[epoch 34/80] loss=0.6608 point=0.0021 tri=0.0178 pseudo=0.2094 dice=0.4070 consist=0.0152 recon=0.0170 vq=0.0011 codes=61 val_score=0.099 (point=0.000, mIoU=0.099, tri=nan) 29.0s
+[epoch 35/80] loss=0.6384 point=0.0013 tri=0.0174 pseudo=0.1825 dice=0.4136 consist=0.0173 recon=0.0182 vq=0.0010 codes=63 val_score=0.123 (point=0.000, mIoU=0.123, tri=nan) 30.1s
+[epoch 36/80] loss=0.6586 point=0.0026 tri=0.0288 pseudo=0.1948 dice=0.3968 consist=0.0134 recon=0.0190 vq=0.0011 codes=61 val_score=0.132 (point=0.000, mIoU=0.132, tri=nan) 30.1s
+  ↳ 早停：15 轮验证分数未提升
+训练完成，最佳 val_score=0.171，日志 C:\Users\14691\Desktop\homework\oi\nnhw\HW1\results\train_log.csv

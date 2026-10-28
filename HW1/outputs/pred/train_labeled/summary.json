@@ -1,0 +1,135 @@
+{
+  "out_dir": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled",
+  "num_images": 13,
+  "items": [
+    {
+      "image": "5N0A0053_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A0053_1_mask.png",
+      "class_ratio": {
+        "0": 0.9712,
+        "1": 0.0288
+      },
+      "seconds": 6.74
+    },
+    {
+      "image": "5N0A0065_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A0065_1_mask.png",
+      "class_ratio": {
+        "0": 0.9952,
+        "1": 0.0048
+      },
+      "seconds": 4.42
+    },
+    {
+      "image": "5N0A0827_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A0827_1_mask.png",
+      "class_ratio": {
+        "0": 0.9714,
+        "1": 0.0042,
+        "2": 0.0244
+      },
+      "seconds": 5.55
+    },
+    {
+      "image": "5N0A0838_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A0838_1_mask.png",
+      "class_ratio": {
+        "0": 0.9729,
+        "1": 0.0018,
+        "2": 0.0253
+      },
+      "seconds": 4.49
+    },
+    {
+      "image": "5N0A0840_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A0840_1_mask.png",
+      "class_ratio": {
+        "0": 0.9235,
+        "1": 0.007,
+        "2": 0.0695
+      },
+      "seconds": 5.45
+    },
+    {
+      "image": "5N0A0856_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A0856_1_mask.png",
+      "class_ratio": {
+        "0": 0.9407,
+        "2": 0.0593
+      },
+      "seconds": 3.23
+    },
+    {
+      "image": "5N0A0857_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A0857_1_mask.png",
+      "class_ratio": {
+        "0": 0.8759,
+        "2": 0.1241
+      },
+      "seconds": 2.33
+    },
+    {
+      "image": "5N0A1577_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A1577_1_mask.png",
+      "class_ratio": {
+        "0": 0.9853,
+        "1": 0.0032,
+        "2": 0.0115
+      },
+      "seconds": 2.89
+    },
+    {
+      "image": "5N0A5818_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A5818_1_mask.png",
+      "class_ratio": {
+        "0": 0.9976,
+        "1": 0.0009,
+        "3": 0.0015
+      },
+      "seconds": 3.89
+    },
+    {
+      "image": "5N0A6421_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A6421_1_mask.png",
+      "class_ratio": {
+        "0": 0.9951,
+        "1": 0.001,
+        "3": 0.0006,
+        "4": 0.0033
+      },
+      "seconds": 4.98
+    },
+    {
+      "image": "5N0A6425_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A6425_1_mask.png",
+      "class_ratio": {
+        "0": 0.996,
+        "3": 0.0018,
+        "4": 0.0022
+      },
+      "seconds": 5.14
+    },
+    {
+      "image": "5N0A6430_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A6430_1_mask.png",
+      "class_ratio": {
+        "0": 0.9848,
+        "1": 0.0034,
+        "2": 0.0099,
+        "3": 0.0013,
+        "4": 0.0005
+      },
+      "seconds": 5.05
+    },
+    {
+      "image": "5N0A6480_1",
+      "mask": "C:\\Users\\14691\\Desktop\\homework\\oi\\nnhw\\HW1\\outputs/pred/train_labeled\\5N0A6480_1_mask.png",
+      "class_ratio": {
+        "0": 0.9927,
+        "1": 0.0059,
+        "3": 0.0014
+      },
+      "seconds": 5.05
+    }
+  ]
+}
